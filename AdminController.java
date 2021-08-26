@@ -13,6 +13,7 @@ import com.thymleaf.example.app.repository.UserRepository;
 
 @RestController
 @RequestMapping("/secure/rest")
+//author Moin Uddin
 public class AdminController {
 
 	@Autowired
